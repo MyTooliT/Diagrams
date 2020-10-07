@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="71 80 362 479" width="362" height="479">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="71 80 362 479" width="362" height="479">
   <defs>
     <font-face font-family="Lucida Grande" font-size="14" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="400">
       <font-face-src>
@@ -18,8 +18,8 @@
       </g>
     </marker>
   </defs>
-  <metadata> Produced by OmniGraffle 7.17.5\n2020-09-29 12:40:13 +0000</metadata>
-  <g id="ICOtronic" fill="none" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none">
+  <metadata> Produced by OmniGraffle 7.17.5\n2020-10-07 11:40:00 +0000</metadata>
+  <g id="ICOtronic" stroke-dasharray="none" fill="none" stroke="none" fill-opacity="1" stroke-opacity="1">
     <title>ICOtronic</title>
     <g id="ICOtronic_Layer_1">
       <title>Layer 1</title>
@@ -148,14 +148,14 @@
         </text>
       </g>
       <g id="Group_31">
-        <title>Tools</title>
+        <title>ICOTools</title>
         <g id="Graphic_15">
           <title>Tools</title>
           <path d="M 82 81 L 206 81 C 211.52284 81 216 85.47715 216 91 L 216 116 C 216 121.52284 211.52284 126 206 126 L 82 126 C 76.47715 126 72 121.52284 72 116 L 72 91 C 72 85.47715 76.47715 81 82 81 Z" fill="white"/>
           <path d="M 82 81 L 206 81 C 211.52284 81 216 85.47715 216 91 L 216 116 C 216 121.52284 211.52284 126 206 126 L 82 126 C 76.47715 126 72 121.52284 72 116 L 72 91 C 72 85.47715 76.47715 81 82 81 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
           <text transform="translate(77 94)" fill="black">
-            <tspan font-family="Lucida Grande" font-size="14" font-weight="400" fill="black" x="43.795" y="14"> </tspan>
-            <tspan font-family="Avenir" font-size="14" font-weight="400" fill="black" y="14">Tools</tspan>
+            <tspan font-family="Lucida Grande" font-size="14" font-weight="400" fill="black" x="32.098" y="14"> </tspan>
+            <tspan font-family="Avenir" font-size="14" font-weight="400" fill="black" y="14">ICOtools</tspan>
           </text>
         </g>
         <g id="Graphic_34">
