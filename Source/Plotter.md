@@ -19,10 +19,10 @@ flowchart TD
         SendPaketlossData --> StoreHDF
         StoreHDF --> TimeCheck
 
-        TimeCheck{"Last update time \n < \nTimeslot time \n ———————————— \n # Pakets timeslot"}
+        TimeCheck{"Last update time \n < \nTime slot time \n ———————————— \n # Pakets time slot"}
             --> |Yes| StoreBuffer[Store points in buffer for plotter]
         TimeCheck --> |No| Message
-        StoreBuffer --> BufferCheck{"Plotter buffer size \n >= \n # Pakets timeslot \n ?"}
+        StoreBuffer --> BufferCheck{"Plotter buffer size \n >= \n # Pakets time slot \n ?"}
         BufferCheck --> |No| Message
         BufferCheck --> |Yes| SendStreamingData["Send streaming data"]
         SendStreamingData -.-> DataSharing
