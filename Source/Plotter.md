@@ -1,3 +1,6 @@
+# Plotter Update Process
+
+```mermaid
 flowchart TD
     subgraph DataSharing [Data Sharing]
         Socket[/Socket/]
@@ -31,11 +34,12 @@ flowchart TD
         DataSharing -.-> ReadData["Read Data"]
         ReadData --> CheckPaketlossData{"Data is \n paketloss data?"}
 
-        CheckPaketlossData --> |Yes| UpdatePaketloss["Update paketloss data"]
+        CheckPaketlossData --> |Yes| UpdatePaketloss["Update internal paketloss data"]
         UpdatePaketloss --> ReadData
 
         CheckPaketlossData --> |No| CheckStreamingData{"Is streaming data?"}
         CheckStreamingData --> |Yes| UpdateGraphData["Update graph data"']
-        UpdateGraphData --> UpdateGraph["Wait for GUI update \n (Pause plot)"]
+        UpdateGraphData --> UpdateGraph["Pause for Matplotlib \n (Wait fixed time for update)"]
         UpdateGraph --> ReadData
     end
+```
