@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="142.5 142.5 336 219" width="336" height="219">
+  <defs/>
+  <g id="Layer_Diagram" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Layer Diagram</title>
+    <g id="Layer_Diagram_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_22">
+        <title>STU</title>
+        <path d="M 154 324 L 467 324 C 472.52284 324 477 328.47715 477 334 L 477 350 C 477 355.52284 472.52284 360 467 360 L 154 360 C 148.47715 360 144 355.52284 144 350 L 144 334 C 144 328.47715 148.47715 324 154 324 Z" stroke="#00d4d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(149 331)" fill="#00becd">
+          <tspan font-family="Avenir" font-size="16" fill="#00becd" x="146.972" y="16" xml:space="preserve">STU</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <title>ICOc</title>
+        <path d="M 154 189 L 467 189 C 472.52284 189 477 193.47715 477 199 L 477 215 C 477 220.52284 472.52284 225 467 225 L 154 225 C 148.47715 225 144 220.52284 144 215 L 144 199 C 144 193.47715 148.47715 189 154 189 Z" stroke="#0096ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(149 196)" fill="#0096ff">
+          <tspan font-family="Avenir" font-size="16" fill="#0096ff" x="116.876" y="16" xml:space="preserve">ICOc Library</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <title>SocketCAN</title>
+        <path d="M 154 279 L 296 279 C 301.52284 279 306 283.47715 306 289 L 306 305 C 306 310.52284 301.52284 315 296 315 L 154 315 C 148.47715 315 144 310.52284 144 305 L 144 289 C 144 283.47715 148.47715 279 154 279 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(149 286)" fill="#929292">
+          <tspan font-family="Avenir" font-size="16" fill="#929292" x="34.648" y="16" xml:space="preserve">SocketCAN</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <title>python-can</title>
+        <path d="M 154 234 L 467 234 C 472.52284 234 477 238.47715 477 244 L 477 260 C 477 265.52284 472.52284 270 467 270 L 154 270 C 148.47715 270 144 265.52284 144 260 L 144 244 C 144 238.47715 148.47715 234 154 234 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(149 241)" fill="#929292">
+          <tspan font-family="Avenir" font-size="16" fill="#929292" x="121.34" y="16" xml:space="preserve">python-can</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <title>ICOtronic Apps</title>
+        <path d="M 154 144 L 260 144 C 265.52284 144 270 148.47715 270 154 L 270 170 C 270 175.52284 265.52284 180 260 180 L 154 180 C 148.47715 180 144 175.52284 144 170 L 144 154 C 144 148.47715 148.47715 144 154 144 Z" stroke="#887ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(149 151)" fill="#887ee3">
+          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="2.552" y="16" xml:space="preserve">ICOtronic Apps</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <title>Production Tests</title>
+        <path d="M 352 144 L 467 144 C 472.52284 144 477 148.47715 477 154 L 477 170 C 477 175.52284 472.52284 180 467 180 L 352 180 C 346.47715 180 342 175.52284 342 170 L 342 154 C 342 148.47715 346.47715 144 352 144 Z" stroke="#887ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(347 151)" fill="#887ee3">
+          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="3.844" y="16" xml:space="preserve">Production Tests</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <title>ICOn</title>
+        <path d="M 289 144 L 323 144 C 328.52284 144 333 148.47715 333 154 L 333 170 C 333 175.52284 328.52284 180 323 180 L 289 180 C 283.47715 180 279 175.52284 279 170 L 279 154 C 279 148.47715 283.47715 144 289 144 Z" stroke="#887ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(284 151)" fill="#887ee3">
+          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="3.136" y="16" xml:space="preserve">ICOn</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <title>PCAN-Basic</title>
+        <path d="M 325 279 L 467 279 C 472.52284 279 477 283.47715 477 289 L 477 305 C 477 310.52284 472.52284 315 467 315 L 325 315 C 319.47715 315 315 310.52284 315 305 L 315 289 C 315 283.47715 319.47715 279 325 279 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(320 286)" fill="#929292">
+          <tspan font-family="Avenir" font-size="16" fill="#929292" x="33.024" y="16" xml:space="preserve">PCAN-Basic</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
