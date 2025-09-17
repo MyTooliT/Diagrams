@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="52.625 71 335.375 488" width="335.375" height="488">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="DoubleArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 12 6" markerWidth="12" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 -1.8 L 4.8 0 L 0 -1.8 L 0 1.8 L 4.8 0 L 4.8 1.8 L 9.6 0 Z" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke-dasharray="none" stroke="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_36">
+        <path d="M 198 531 L 252 531 L 252 414 L 210.9 414" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_34">
+        <title>Streaming Data</title>
+        <path d="M 95 504 L 193 504 C 195.76142 504 198 506.23857 198 509 L 198 553 C 198 555.7614 195.76142 558 193 558 L 95 558 C 92.23857 558 90 555.7614 90 553 L 90 509 C 90 506.23857 92.23857 504 95 504 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(95 509)" fill="black">
+          <tspan font-family="Avenir" font-size="16" fill="black" x="12.712" y="16" xml:space="preserve">Streaming </tspan>
+          <tspan font-family="Avenir" font-size="16" fill="black" x="32.112" y="38" xml:space="preserve">Data</tspan>
+        </text>
+      </g>
+      <g id="Line_35">
+        <line x1="144" y1="432" x2="144" y2="491.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_64">
+        <title>Empty Label</title>
+        <rect x="132.77734" y="447.1133" width="14.445312" height="29" fill="white"/>
+        <text transform="translate(137.77734 452.1133)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" fill="black" x="2.2226562" y="15" xml:space="preserve"> </tspan>
+        </text>
+      </g>
+      <g id="Group_61">
+        <title>async for</title>
+        <g id="Graphic_63">
+          <title>loop</title>
+          <text transform="translate(131 450)" fill="#ff9300">
+            <tspan font-family="Apple Symbols" font-size="32" fill="#ff9300" x="0" y="21" xml:space="preserve">⟳</tspan>
+          </text>
+        </g>
+        <g id="Graphic_62">
+          <title>for</title>
+          <text transform="translate(148.52 461.2283)" fill="#ff9300">
+            <tspan font-family="Avenir" font-size="10" fill="#ff9300" x="0" y="10" xml:space="preserve">for</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_16">
+        <title>Stream</title>
+        <path d="M 95 396 L 193 396 C 195.76142 396 198 398.23857 198 401 L 198 427 C 198 429.7614 195.76142 432 193 432 L 95 432 C 92.23857 432 90 429.7614 90 427 L 90 401 C 90 398.23857 92.23857 396 95 396 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(95 403)" fill="black">
+          <tspan font-family="Avenir" font-size="16" fill="black" x="23.968" y="16" xml:space="preserve">Stream</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <line x1="144" y1="324" x2="144" y2="383.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_55">
+        <line x1="261" y1="352" x2="220.49998" y2="352.04436" marker-end="url(#DoubleArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_54">
+        <title>Streaming Configuration</title>
+        <path d="M 266 329.5 L 382 329.5 C 384.7614 329.5 387 331.73857 387 334.5 L 387 369.5 C 387 372.2614 384.7614 374.5 382 374.5 L 266 374.5 C 263.23857 374.5 261 372.2614 261 369.5 L 261 334.5 C 261 331.73857 263.23857 329.5 266 329.5 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(266 330)" fill="black">
+          <tspan font-family="Avenir" font-size="16" fill="black" x="21.712" y="16" xml:space="preserve">Streaming </tspan>
+          <tspan font-family="Avenir" font-size="16" fill="black" x="8.976" y="38" xml:space="preserve">Configuration</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <title>Label: open data stream</title>
+        <rect x="91.888" y="338.9974" width="104.224" height="26" fill="white"/>
+        <text transform="translate(96.888 343.9974)" fill="black">
+          <tspan font-family="Avenir" font-size="12" fill="black" x="0" y="12" xml:space="preserve">open data stream</tspan>
+        </text>
+      </g>
+      <g id="Group_56">
+        <title>async with</title>
+        <g id="Graphic_58">
+          <title>loop</title>
+          <text transform="translate(72 345.5)" fill="#0096ff">
+            <tspan font-family="Apple Symbols" font-size="32" fill="#0096ff" x="0" y="21" xml:space="preserve">⟳</tspan>
+          </text>
+        </g>
+        <g id="Graphic_57">
+          <title>with</title>
+          <text transform="translate(86.375 356.7283)" fill="#0096ff">
+            <tspan font-family="Avenir" font-size="10" fill="#0096ff" x="0" y="10" xml:space="preserve">with</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_38">
+        <title>Sensor Node</title>
+        <path d="M 95 288 L 193 288 C 195.76142 288 198 290.23857 198 293 L 198 319 C 198 321.7614 195.76142 324 193 324 L 95 324 C 92.23857 324 90 321.7614 90 319 L 90 293 C 90 290.23857 92.23857 288 95 288 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(95 295)" fill="black">
+          <tspan font-family="Avenir" font-size="16" fill="black" x="2.32" y="16" xml:space="preserve">Sensor Node</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <line x1="144" y1="216" x2="144" y2="275.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_26">
+        <line x1="261" y1="243" x2="218.4072" y2="243.36136" marker-end="url(#DoubleArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_23">
+        <title>Identifier</title>
+        <path d="M 266 225 L 364 225 C 366.7614 225 369 227.23857 369 230 L 369 256 C 369 258.76142 366.7614 261 364 261 L 266 261 C 263.23857 261 261 258.76142 261 256 L 261 230 C 261 227.23857 263.23857 225 266 225 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(266 232)" fill="black">
+          <tspan font-family="Avenir" font-size="16" fill="black" x="17.136" y="16" xml:space="preserve">Identifier</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <rect x="74.092" y="231.069" width="121.816" height="26" fill="white"/>
+        <text transform="translate(79.092 236.069)" fill="black">
+          <tspan font-family="Avenir" font-size="12" fill="black" x="0" y="12" xml:space="preserve">connect sensor node</tspan>
+        </text>
+      </g>
+      <g id="Group_50">
+        <title>async with</title>
+        <g id="Graphic_52">
+          <title>loop</title>
+          <text transform="translate(57.625 237.32812)" fill="#0096ff">
+            <tspan font-family="Apple Symbols" font-size="32" fill="#0096ff" x="0" y="21" xml:space="preserve">⟳</tspan>
+          </text>
+        </g>
+        <g id="Graphic_51">
+          <title>with</title>
+          <text transform="translate(72 248.55642)" fill="#0096ff">
+            <tspan font-family="Avenir" font-size="10" fill="#0096ff" x="0" y="10" xml:space="preserve">with</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_13">
+        <title>STU</title>
+        <path d="M 95 180 L 193 180 C 195.76142 180 198 182.23857 198 185 L 198 211 C 198 213.76142 195.76142 216 193 216 L 95 216 C 92.23857 216 90 213.76142 90 211 L 90 185 C 90 182.23857 92.23857 180 95 180 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(95 187)" fill="black">
+          <tspan font-family="Avenir" font-size="16" fill="black" x="34.472" y="16" xml:space="preserve">STU</tspan>
+        </text>
+      </g>
+      <g id="Line_14">
+        <line x1="144" y1="108" x2="144" y2="167.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_60">
+        <title>Empty Label</title>
+        <rect x="132.77734" y="119.11328" width="14.445312" height="29" fill="white"/>
+        <text transform="translate(137.77734 124.11328)" fill="black">
+          <tspan font-family="Helvetica" font-size="16" fill="black" x="2.2226562" y="15" xml:space="preserve"> </tspan>
+        </text>
+      </g>
+      <g id="Group_42">
+        <title>async with</title>
+        <g id="Graphic_41">
+          <title>loop</title>
+          <text transform="translate(131 122)" fill="#0096ff">
+            <tspan font-family="Apple Symbols" font-size="32" fill="#0096ff" x="0" y="21" xml:space="preserve">⟳</tspan>
+          </text>
+        </g>
+        <g id="Graphic_40">
+          <title>with</title>
+          <text transform="translate(145.375 133.2283)" fill="#0096ff">
+            <tspan font-family="Avenir" font-size="10" fill="#0096ff" x="0" y="10" xml:space="preserve">with</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_7">
+        <title>Connection</title>
+        <path d="M 95 72 L 193 72 C 195.76142 72 198 74.238575 198 77 L 198 103 C 198 105.76142 195.76142 108 193 108 L 95 108 C 92.23857 108 90 105.76142 90 103 L 90 77 C 90 74.238575 92.23857 72 95 72 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(95 79)" fill="black">
+          <tspan font-family="Avenir" font-size="16" fill="black" x="7.656" y="16" xml:space="preserve">Connection</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
