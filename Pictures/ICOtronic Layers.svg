@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="142.5 142.5 336 219" width="336" height="219">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="142.5 52.5 336 309" width="336" height="309">
   <defs/>
-  <g id="Layer_Diagram" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+  <g id="Layer_Diagram" stroke="none" fill="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none">
     <title>Layer Diagram</title>
     <g id="Layer_Diagram_Layer_1">
       <title>Layer 1</title>
@@ -14,10 +14,10 @@
         </text>
       </g>
       <g id="Graphic_23">
-        <title>ICOc</title>
+        <title>ICOtronic</title>
         <path d="M 154 189 L 467 189 C 472.52284 189 477 193.47715 477 199 L 477 215 C 477 220.52284 472.52284 225 467 225 L 154 225 C 148.47715 225 144 220.52284 144 215 L 144 199 C 144 193.47715 148.47715 189 154 189 Z" stroke="#0096ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
         <text transform="translate(149 196)" fill="#0096ff">
-          <tspan font-family="Avenir" font-size="16" fill="#0096ff" x="116.876" y="16" xml:space="preserve">ICOc Library</tspan>
+          <tspan font-family="Avenir" font-size="16" fill="#0096ff" x="100.596" y="16" xml:space="preserve">ICOtronic Library</tspan>
         </text>
       </g>
       <g id="Graphic_24">
@@ -35,17 +35,17 @@
         </text>
       </g>
       <g id="Graphic_26">
-        <title>ICOtronic Apps</title>
+        <title>ICOstate</title>
         <path d="M 154 144 L 260 144 C 265.52284 144 270 148.47715 270 154 L 270 170 C 270 175.52284 265.52284 180 260 180 L 154 180 C 148.47715 180 144 175.52284 144 170 L 144 154 C 144 148.47715 148.47715 144 154 144 Z" stroke="#887ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
         <text transform="translate(149 151)" fill="#887ee3">
-          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="2.552" y="16" xml:space="preserve">ICOtronic Apps</tspan>
+          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="26.264" y="16" xml:space="preserve">ICOstate</tspan>
         </text>
       </g>
       <g id="Graphic_27">
-        <title>Production Tests</title>
+        <title>ICOtest</title>
         <path d="M 352 144 L 467 144 C 472.52284 144 477 148.47715 477 154 L 477 170 C 477 175.52284 472.52284 180 467 180 L 352 180 C 346.47715 180 342 175.52284 342 170 L 342 154 C 342 148.47715 346.47715 144 352 144 Z" stroke="#887ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
         <text transform="translate(347 151)" fill="#887ee3">
-          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="3.844" y="16" xml:space="preserve">Production Tests</tspan>
+          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="34.916" y="16" xml:space="preserve">ICOtest</tspan>
         </text>
       </g>
       <g id="Graphic_28">
@@ -60,6 +60,20 @@
         <path d="M 325 279 L 467 279 C 472.52284 279 477 283.47715 477 289 L 477 305 C 477 310.52284 472.52284 315 467 315 L 325 315 C 319.47715 315 315 310.52284 315 305 L 315 289 C 315 283.47715 319.47715 279 325 279 Z" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
         <text transform="translate(320 286)" fill="#929292">
           <tspan font-family="Avenir" font-size="16" fill="#929292" x="33.024" y="16" xml:space="preserve">PCAN-Basic</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <title>ICOWeb</title>
+        <path d="M 154 54 L 260 54 C 265.52284 54 270 58.47715 270 64 L 270 80 C 270 85.52285 265.52284 90 260 90 L 154 90 C 148.47715 90 144 85.52285 144 80 L 144 64 C 144 58.47715 148.47715 54 154 54 Z" stroke="#887ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(149 61)" fill="#887ee3">
+          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="28.472" y="16" xml:space="preserve">ICOweb</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <title>ICOapi</title>
+        <path d="M 154 99 L 260 99 C 265.52284 99 270 103.47715 270 109 L 270 125 C 270 130.52284 265.52284 135 260 135 L 154 135 C 148.47715 135 144 130.52284 144 125 L 144 109 C 144 103.47715 148.47715 99 154 99 Z" stroke="#887ee3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(149 106)" fill="#887ee3">
+          <tspan font-family="Avenir" font-size="16" fill="#887ee3" x="32.624" y="16" xml:space="preserve">ICOapi</tspan>
         </text>
       </g>
     </g>
